@@ -1,0 +1,12 @@
+{
+  "name": "vue-route-generator",
+  "version": "1.0.0",
+  "description": "vue的路由生成器命令",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "whj",
+  "dependencies": {
+    "@inquirer/prompts": "^3.1.2"
+  }
+}
